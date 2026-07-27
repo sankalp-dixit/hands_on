@@ -1,0 +1,15 @@
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\projection\EmployeeSummary.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\config\PrimaryDataSourceConfig.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\config\SecondaryDataSourceConfig.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\model\Auditable.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\controller\DepartmentController.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\repository\DepartmentRepository.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\model\Employee.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\controller\EmployeeController.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\repository\secondary\LogEntryRepository.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\repository\EmployeeRepository.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\config\AuditingConfig.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\EmployeeManagementSystemApplication.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\model\secondary\LogEntry.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\dto\EmployeeDto.java
+C:\personal dg\github_repo\Digital-Nurture-JavaFSE-Cognizant\Week-06-Hibernate-SpringDataJPA\EmployeeManagementSystem\src\main\java\com\example\employee\model\Department.java

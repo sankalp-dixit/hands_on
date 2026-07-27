@@ -1,0 +1,15 @@
+com\example\employee\repository\secondary\LogEntryRepository.class
+com\example\employee\projection\EmployeeSummary.class
+com\example\employee\config\AuditingConfig.class
+com\example\employee\model\secondary\LogEntry.class
+com\example\employee\config\SecondaryDataSourceConfig.class
+com\example\employee\config\PrimaryDataSourceConfig.class
+com\example\employee\model\Employee.class
+com\example\employee\controller\DepartmentController.class
+com\example\employee\controller\EmployeeController.class
+com\example\employee\EmployeeManagementSystemApplication.class
+com\example\employee\model\Auditable.class
+com\example\employee\repository\DepartmentRepository.class
+com\example\employee\repository\EmployeeRepository.class
+com\example\employee\dto\EmployeeDto.class
+com\example\employee\model\Department.class
